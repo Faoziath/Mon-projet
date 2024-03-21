@@ -1,0 +1,112 @@
+body{
+    background-color: green;
+}
+
+
+.tete{
+    color: white;
+    background-image: url(../Image/Plan3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    padding-top: 100px;
+
+}
+strong{
+    color: white;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.Parti1{
+    justify-content: center;
+    display:flex;
+    gap: 50px;
+    margin-top: 5em;
+    
+}
+
+.Parti2{
+    justify-content: center;
+    display:flex;
+    gap: 50px;
+    margin-top: 5em;
+    
+}
+.Parti3{
+    justify-content: center;
+    display:flex;
+    gap: 50px;
+    margin-top: 5em;
+}
+
+.Parti4{
+    justify-content: center;
+    display:flex;
+    gap: 50px;
+    margin-top: 5em;
+    
+}
+.Parti5{
+    justify-content: center;
+    display:flex;
+    gap: 50px;
+    margin-top: 5em;
+    
+}
+
+
+.Parti6{
+    justify-content: center;
+    display: flex;
+    gap: 50px;
+    margin-top: 5em;
+}
+
+
+
+/*A PROPOS*/
+.Profil {
+    justify-content: center;
+    display: flex;
+    gap: 50px;
+    margin-top: 10em;
+}
+
+
+.propos{
+    transition-property: all;
+    transition-duration: 0.5s;
+    animation: anim 10s infinite;
+    white-space: nowrap;
+    overflow: hidden;
+
+
+}
+
+
+.formulaire{
+    border-style: solid;
+    color: white;
+    border-width: 10px;
+    border-radius: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10%;
+    width:250px;
+    text-align: center;
+
+}
+
+
+/*.propos:hover{
+    color: green;
+} */
+
+@keyframes anim{
+    0%{transform: translateX(100%);}
+    100%{transform: translateX(-100%);}
+}

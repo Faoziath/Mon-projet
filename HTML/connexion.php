@@ -9,7 +9,7 @@
 <body>
 
 
-<form action="" style="text-align: center;">
+<form action="Traitement-connexion.php" style="text-align: center;" method="post">
 
 <div class="formulaire">
 
@@ -18,11 +18,13 @@
 <input type="email" value="" name="email" placeholder="E-mail"> <br><br>
 
 <label for="">Mot de passe</label> <br>
-<input type="texte" value="" placeholder="Mot de passe"> <br><br><br>
+<input type="texte" value=""  name="password" placeholder="Mot de passe"> <br><br><br>
 
-<button type="button">CONNECTER</button>
+<button type="button" name="ok" value="connexion">CONNECTER</button>
 
 </div>
+
+
 </form>
     
 </body>

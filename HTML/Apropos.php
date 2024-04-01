@@ -8,21 +8,6 @@
 </head>
 <body>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="propos">
    <h1 style="color:white; font-size:70px; text-align:center "> <hr>A PROPOS <hr></h1>
 

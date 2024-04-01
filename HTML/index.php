@@ -8,6 +8,8 @@
 </head>
 <body>
     <div class="tete" >
+
+   <?php include "En-tete.php"; ?>
     <h2 >NOUS CONTRIBUONS AU CHANGEMENT CLIMATIQUE EN 
             SASTIFAISANT LES PRODUCTEURS MARAICHERS</h2>
 
@@ -142,12 +144,16 @@
     </div>
 
 
- <br><br>
 
      <h2 style="text-align: center;"> <a href="commande.php" style="color: white; border-radius: 50px; border: 2px solid white; text-decoration: none;">CLIQUEZ POUR COMMANDEZ</a> </h2>
 
-     <a href="Apropos.php">aaa</a>
-     <a href="inscritption.php">gggg</a>
-     <a href="connexion.php">BBBBB</a>
+     <a href="Apropos.php">A PROPOS</a>
+     <a href="inscritption.php">INSCRIVEZ-VOUS</a>
+    <a href="En-tete.php">AAAAAAAAA</a>
+    <a href="Pied.php">PPPPPP</a>
+<a href="cccc.php">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</a>
+    <a href="commande .php">VVVVVVVVVVVVVVVVVV</a>
+
+    <a href="pied.php">zzzzzzzzzzzzzzzz</a>
 </body>
 </html>
